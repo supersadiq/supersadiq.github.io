@@ -81,7 +81,7 @@ async function handleRequest(request) {
           "Content-Type": "application/json",
           "Cache-Control": "no-cache, no-store, must-revalidate",
           "Access-Control-Allow-Origin": "*",
-          "Made-By": "https://github.com/Sadiq_Robot",
+          "Made-By": "https://t.me/Sadiq_Robot",
         },
       });
     }
